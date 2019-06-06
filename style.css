@@ -1,0 +1,15 @@
+body {
+    max-width: 100%;
+    background-color: aliceblue
+}
+
+#heading {
+    font-family: 'Times New Roman', Times, serif; 
+    color: black; 
+    font-style: inherit; 
+}
+
+#paragraph {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: black; 
+}
